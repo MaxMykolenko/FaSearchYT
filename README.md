@@ -1,2 +1,2 @@
 # FaSearchYT
-This founder how Google
+This finder how Google
