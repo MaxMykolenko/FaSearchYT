@@ -1,2 +1,2 @@
 # FaSearchYT
-This finder how Google
+It's finder how Google
